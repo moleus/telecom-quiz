@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-quiz-component": "^0.5.1"
+    "react-quiz-component": "https://github.com/Moleus/react-quiz-component#build-before-install"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './App.css'
-import Quiz from 'react-quiz-component';
 import { IQuestion } from './Types';
 import SingleQuiz from './SingleQuiz';
 

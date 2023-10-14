@@ -21,7 +21,7 @@ const createQuiz = (name: number, questions: IQuestion[]) => {
 const SingleQuiz: React.FC<Props> = ({ number, questions }) => {
   return (
     <>
-      <Quiz quiz={createQuiz(number, questions)} shuffle={true} shuffleAnswer={true}/>
+      <Quiz quiz={createQuiz(number, questions)} shuffle={true} shuffleAnswer={true} continueTillCorrect={true} showInstantFeedback={true}/>
    </>
   )
 }
