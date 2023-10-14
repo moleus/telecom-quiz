@@ -44,7 +44,7 @@ function App() {
     // show N buttons, where N is the number of quizzes. On click should call SingleQuiz component and hide others
     <>
     {selectedQuiz !== null && <SingleQuiz number={selectedQuiz} questions={splitIQuestionsArray[selectedQuiz]}/>}
-    {selectedQuiz === null && splitIQuestionsArray.map((questions, index) => (
+    {selectedQuiz === null && splitIQuestionsArray.map((_, index) => (
       <button key={index} onClick={() => { selectQuiz(index); }}>
         {index}
       </button>
