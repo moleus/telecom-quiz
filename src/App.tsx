@@ -4,7 +4,7 @@ import { IQuestion } from './Types';
 import SingleQuiz from './SingleQuiz';
 
 const loadQuestions = async () => {
-  const response = await fetch('/telecom3.json');
+  const response = await fetch('./telecom3.json');
   const data = await response.json();
   return data;
 }
