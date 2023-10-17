@@ -28,7 +28,7 @@ function App() {
           // set field questions with data
           // loaded questions count:
           console.log(`Loaded questions count: ${data.length}`);
-          setIQuestions(data);
+          setIQuestions(data.map((q: IQuestion) => replacePicUrl(q)));
           });
       }, []);
 
@@ -38,6 +38,16 @@ function App() {
 
   const selectQuiz = (index: number) => {
     setSelectedQuiz(index);
+  }
+
+  const replacePicUrl = (question: IQuestion) => {
+    // from "pics/blabla.png" to "https://ksgovnoznayte.netlify.app/pics/blabla.png"
+    console.log(question.questionPic);
+    if (!question.questionPic) {
+      return question;
+    }
+    question.questionPic = "https://ksgovnoznayte.netlify.app/" + question.questionPic;
+    return question;
   }
 
   return (

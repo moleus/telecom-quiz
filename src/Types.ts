@@ -10,6 +10,7 @@ export interface IQuestion {
   messageForIncorrectAnswer: string;
   explanation: string;
   point: string;
+  picture: string;
 }
 
 export interface IQuiz {
