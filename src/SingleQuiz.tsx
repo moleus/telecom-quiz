@@ -19,9 +19,25 @@ const createQuiz = (name: number, questions: IQuestion[]) => {
 }
 
 const SingleQuiz: React.FC<Props> = ({ number, questions }) => {
+  // toggle if you want to shuffle the questions
+  const [shuffleQuestions, setShuffleQuestions] = React.useState<boolean>(false);
+  const [shuffleAnswers, setShuffleAnswers] = React.useState<boolean>(false);
+
   return (
     <>
-      <Quiz quiz={createQuiz(number, questions)} shuffle={true} shuffleAnswer={true} continueTillCorrect={true} showInstantFeedback={true}/>
+    <div>
+      <label>
+        <input type="checkbox" checked={shuffleQuestions} onChange={() => setShuffleQuestions(!shuffleQuestions)} />
+        Shuffle questions
+      </label>
+    </div>
+    <div>
+      <label>
+        <input type="checkbox" checked={shuffleAnswers} onChange={() => setShuffleAnswers(!shuffleAnswers)} />
+        Shuffle answers
+      </label>
+    </div>
+    <Quiz key={+shuffleAnswers + +shuffleQuestions} quiz={createQuiz(number, questions)} shuffle={shuffleQuestions} shuffleAnswer={shuffleAnswers} continueTillCorrect={true} showInstantFeedback={true} allowNavigation={true}/>
    </>
   )
 }
