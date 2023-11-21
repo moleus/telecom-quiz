@@ -4,11 +4,11 @@ import Quiz from 'react-quiz-component';
 import { IQuestion, IQuiz } from './Types';
 
 type Props = {
-  number: number;
+  name: string;
   questions: IQuestion[];
 }
 
-const createQuiz = (name: number, questions: IQuestion[]) => {
+const createQuiz = (name: string, questions: IQuestion[]) => {
   const quiz: IQuiz = {
     quizTitle: "Telecom Quiz: " + name.toString(),
     quizSynopsis: "Telecom Quiz",
@@ -18,7 +18,7 @@ const createQuiz = (name: number, questions: IQuestion[]) => {
   return quiz;
 }
 
-const SingleQuiz: React.FC<Props> = ({ number, questions }) => {
+const SingleQuiz: React.FC<Props> = ({ name: number, questions }) => {
   // toggle if you want to shuffle the questions
   const [shuffleQuestions, setShuffleQuestions] = React.useState<boolean>(false);
   const [shuffleAnswers, setShuffleAnswers] = React.useState<boolean>(false);

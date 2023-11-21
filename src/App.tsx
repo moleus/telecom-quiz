@@ -9,10 +9,23 @@ const loadQuestions = async () => {
   return data;
 }
 
-const splitIQuestions = (questions: IQuestion[], bulkSize: number): IQuestion[][] => {
-  const result: IQuestion[][] = [];
-  for (let i = 0; i < questions.length; i += bulkSize) {
-    result.push(questions.slice(i, i + bulkSize));
+interface Interval {
+  start: number;
+  end: number;
+}
+
+const groupStartIndexArr: Map<string, Interval> = new Map<string, Interval>( [
+    ["2.1", {start: 339, end: 360}],
+    ["2.2", {start: 361, end: 382}],
+    ["3.1", {start: 383, end: 393}],
+    ["3.2", {start: 394, end: 409}],
+    ["3.3", {start: 410, end: 417}],
+] );
+
+const splitIQuestions = (questions: IQuestion[]): Map<string, IQuestion[]> => {
+  const result: Map<string, IQuestion[]> = new Map<string, IQuestion[]>();
+  for (const [key, value] of groupStartIndexArr) {
+    result.set(key, questions.slice(value.start, value.end));
   }
   return result;
 }
@@ -20,8 +33,8 @@ const splitIQuestions = (questions: IQuestion[], bulkSize: number): IQuestion[][
 // it should show buttons to route to the quiz.
 function App() {
   const [questions, setIQuestions] = useState<IQuestion[]>([]);
-  const [splitIQuestionsArray, setSplitIQuestionsArray] = useState<IQuestion[][]>([]);
-  const [selectedQuiz, setSelectedQuiz] = useState<number | null>(null);
+  const [splitIQuestionsMap, setSplitIQuestionsMap] = useState<Map<string, IQuestion[]>>(new Map<string, IQuestion[]>());
+  const [selectedQuizName, setSelectedQuiz] = useState<string | null>(null);
 
   React.useEffect(() => {
       loadQuestions().then((data) => {
@@ -33,16 +46,14 @@ function App() {
       }, []);
 
   React.useEffect(() => {
-    setSplitIQuestionsArray(splitIQuestions(questions, 100));
+    setSplitIQuestionsMap(splitIQuestions(questions));
   }, [questions]);
 
-  const selectQuiz = (index: number) => {
+  const selectQuiz = (index: string) => {
     setSelectedQuiz(index);
   }
 
   const replacePicUrl = (question: IQuestion) => {
-    // from "pics/blabla.png" to "https://ksgovnoznayte.netlify.app/pics/blabla.png"
-    console.log(question.questionPic);
     if (!question.questionPic) {
       return question;
     }
@@ -53,10 +64,10 @@ function App() {
   return (
     // show N buttons, where N is the number of quizzes. On click should call SingleQuiz component and hide others
     <>
-    {selectedQuiz !== null && <SingleQuiz number={selectedQuiz} questions={splitIQuestionsArray[selectedQuiz]}/>}
-    {selectedQuiz === null && splitIQuestionsArray.map((_, index) => (
-      <button key={index} onClick={() => { selectQuiz(index); }}>
-        {index}
+    { selectedQuizName !== null && splitIQuestionsMap.size > 0 && <SingleQuiz name={selectedQuizName} questions={splitIQuestionsMap.get(selectedQuizName)!}/>}
+    { selectedQuizName === null && [...splitIQuestionsMap.keys()].map((name) => (
+      <button key={name} onClick={() => { selectQuiz(name); }}>
+        {name}
       </button>
     ))}
    </>
