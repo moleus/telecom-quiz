@@ -15,6 +15,7 @@ interface Interval {
 }
 
 const groupStartIndexArr: Map<string, Interval> = new Map<string, Interval>( [
+    ["1", {start: 0, end: 338}],
     ["2.1", {start: 339, end: 360}],
     ["2.2", {start: 361, end: 382}],
     ["3.1", {start: 383, end: 393}],
