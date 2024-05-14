@@ -10663,5 +10663,5605 @@
         "question": "Расположите  (пронумеруйте) кабели в порядке убывания их качества для передачи данных.",
         "questionPic": null,
         "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Вычислительный комплекс - это совокупность технических средств, содержащих более одного центрального",
+            "Вычислительная система - это совокупность технических и программных средств.",
+            "Вычислительная машина (компьютер) - это совокупность технических средств.",
+            "Вычислительный комплекс и вычислительная система - это одно и то же..",
+            "Вычислительная система - это совокупность технических средств, содержащих более одного центрального",
+            "Вычислительная машина (компьютер) - это совокупность технических и программных средств.",
+            "Вычислительный комплекс - это совокупность средств вычислительной техники и средств телекоммуникаций.",
+            "Вычислительная машина (компьютер) и вычислительная система - это одно и то же.."
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 475,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Вычислительный комплекс - это совокупность технических средств, содержащих более одного центрального, Вычислительная система - это совокупность технических и программных средств., Вычислительная машина (компьютер) - это совокупность технических средств.",
+        "point": "20",
+        "question": "Выберите корректные утверждения. процессора. процессора.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Данные могут не содержать информацию",
+            "Мерой данных является объем",
+            "Мерой информации является энтропия",
+            "Объем информации измеряется в байтах",
+            "Данные всегда содержат информацию",
+            "Количественной мерой данных является энтропия",
+            "Данные и информация - это одно и то же.",
+            "Мерой данных является емкость"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 476,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Данные могут не содержать информацию, Мерой данных является объем, Мерой информации является энтропия",
+        "point": "20",
+        "question": "В чем отличие информации от данных? Выберите верные утверждения.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "задач в секунду",
+            "бод",
+            "MFLOPS",
+            "MIPS",
+            "такты в секунду",
+            "мегагерцы",
+            "FPS",
+            "команд/секунду"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 477,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "задач в секунду",
+        "point": "20",
+        "question": "В чём принято измерять производительность вычислительной системы?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "MFLOPS",
+            "MIPS",
+            "LAPS",
+            "децибел/c",
+            "тактов в секунду",
+            "мегагерц",
+            "FPS",
+            "задач в секунду"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 478,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "MFLOPS, MIPS",
+        "point": "20",
+        "question": "В чём принято измерять производительность компьютера (вычислительной машины)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "маршрутизация",
+            "Маршрутизация",
+            "маршрутизацией"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 479,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "маршрутизация, Маршрутизация, маршрутизацией",
+        "point": "20",
+        "question": "Как называется процесс выбора выходного порта в узле компьютерной сети при определении направления передачи данных? <br><br>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "мультиплексирование",
+            "Мультиплексирование",
+            "мультиплексированием",
+            "multiplexing",
+            "Multiplexing"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 480,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "мультиплексирование, Мультиплексирование, мультиплексированием, multiplexing, Multiplexing",
+        "point": "20",
+        "question": "Как называется процесс объединения нескольких потоков данных в один поток?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "телеграфные",
+            "компьютерные",
+            "телефонные",
+            "аудио",
+            "видео",
+            "факсимильные"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 481,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "телеграфные, компьютерные",
+        "point": "20",
+        "question": "Какие данные являются  в исходном виде дискретными?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "разговорная речь",
+            "видео",
+            "температура воздуха в помещении",
+            "уровень воды в Неве",
+            "компьютерные данные",
+            "цифровые данные",
+            "двоичные",
+            "десятичные",
+            "шестнадцатеричные"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 482,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "разговорная речь, видео, температура воздуха в помещении, уровень воды в Неве",
+        "point": "20",
+        "question": "Какие данные являются в исходном виде непрерывными?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "от 20 Гц до 20 кГц",
+            "от 10 кГц до 20 кГц",
+            "от 0 Гц до 100 кГц",
+            "от 100 Гц до 3400 Гц",
+            "от 0 Гц до 20000 Гц",
+            "от 300 Гц до 20000 кГц",
+            "от 300 Гц до 3400 Гц",
+            "от 80 Гц до 12000 Гц",
+            "от 40 Гц до 6000 кГц"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 483,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "от 20 Гц до 20 кГц",
+        "point": "20",
+        "question": "Какой спектр частот имеют аудиоданные (с музыкой)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "от 80 Гц до 12 кГц",
+            "от 10 кГц до 20 кГц",
+            "от 0 Гц до 100 кГц",
+            "от 100 Гц до 3400 Гц",
+            "от 0 Гц до 20000 Гц",
+            "от 300 Гц до 20000 кГц",
+            "от 300 Гц до 3400 Гц",
+            "от 20 Гц до 20 кГц",
+            "от 40 Гц до 6000 кГц"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 484,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "от 80 Гц до 12 кГц",
+        "point": "20",
+        "question": "Какой спектр частот имеют голосовые данные?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "от 40 Гц до 6000 кГц",
+            "от 10 кГц до 20 кГц",
+            "от 0 Гц до 100 кГц",
+            "от 100 Гц до 3400 Гц",
+            "от 0 Гц до 20000 Гц",
+            "от 300 Гц до 20000 кГц",
+            "от 300 Гц до 3400 Гц",
+            "от 80 Гц до 12000 Гц",
+            "от 20 Гц до 20 кГц"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 485,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "от 40 Гц до 6000 кГц",
+        "point": "20",
+        "question": "Какой спектр частот имеют видеоданные?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "от 300 Гц до 3400 Гц",
+            "от 10 кГц до 20 кГц",
+            "от 0 Гц до 100 кГц",
+            "от 100 Гц до 3400 Гц",
+            "от 0 Гц до 20000 Гц",
+            "от 300 Гц до 20000 кГц",
+            "от 20 Гц до 20 кГц",
+            "от 80 Гц до 12000 Гц",
+            "от 40 Гц до 6000 кГц"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 486,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "от 300 Гц до 3400 Гц",
+        "point": "20",
+        "question": "В какой полосе частот передаются данные в каналах тональной частоты?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "у аудиоданных более широкий спектр",
+            "у аудиоданных более узкий спектр",
+            "отличия нет",
+            "у аудиоданных большая скорость передачи",
+            "у аудиоданных меньшая скорость передачи",
+            "у аудиоданных большая полоса пропускания",
+            "у аудиоданных меньшая полоса пропускания"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 487,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "у аудиоданных более широкий спектр",
+        "point": "20",
+        "question": "В чём отличие аудиоданных от телефонных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Открытость",
+            "Гибкость",
+            "Совместимость",
+            "Масштабируемость",
+            "Эффективность",
+            "Однородность",
+            "Системность",
+            "Протяжённость",
+            "Адекватность",
+            "Простота",
+            "Дешевизна",
+            "Общность"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 488,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Открытость, Гибкость, Совместимость, Масштабируемость, Эффективность",
+        "point": "20",
+        "question": "Какие требования предъявляются к организации компьютерных сетей?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "открытостью",
+            "масштабируемостью",
+            "прозрачностью",
+            "эффективностью",
+            "надёжностью",
+            "системностью",
+            "верифицируемостью",
+            "множественностью",
+            "совместимостью",
+            "дуплицируемостью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 489,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "открытостью",
+        "point": "20",
+        "question": "Возможность включения дополнительных компонентов в компьютерную сеть без изменения существующих технических и программных средств называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "гибкостью",
+            "открытостью",
+            "эффективностью",
+            "адекватностью",
+            "прозрачностью",
+            "масштабируемостью",
+            "надежностью",
+            "комплексируемостью",
+            "функциональностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 490,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "гибкостью",
+        "point": "20",
+        "question": "Сохранение работоспособности при изменении структуры вычислительной сети в результате отключения или подключения  оборудования или выхода из строя отдельных компонентов называется ... Разбор оскуляцией",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "совместимостью",
+            "эффективностью",
+            "масштабируемостью",
+            "прозрачностью",
+            "системностью",
+            "оскуляцией",
+            "функциональностью",
+            "взаимозаменяемостью",
+            "дублированием",
+            "надежностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 491,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "совместимостью",
+        "point": "20",
+        "question": "Возможность работы в сети оборудования разного типа и разных производителей называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "масштабируемостью",
+            "открытостью",
+            "эффективностью",
+            "гибкостью",
+            "надёжностью",
+            "адекватностью",
+            "совместимостью",
+            "наращиваемостью",
+            "прозрачностью",
+            "виртуальностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 492,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "масштабируемостью",
+        "point": "20",
+        "question": "Способность компьютерной сети не снижать свою производительность при добавлении узлов и каналов связи называется... Разбор эскалацией",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "эффективностью",
+            "открытостью",
+            "закрытостью",
+            "надёжностью",
+            "гибкостью",
+            "масштабируемостью",
+            "экономичностью",
+            "функциональностью",
+            "безопасностью",
+            "инвариантностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 493,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "эффективностью",
+        "point": "20",
+        "question": "Обеспечение требуемого качества обслуживания пользователей компьютерной сети при минимальных затратах называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "архитектурой",
+            "организацией",
+            "технологией",
+            "функциональностью",
+            "структуризацией",
+            "масштабируемостью",
+            "гибкостью",
+            "эффективностью",
+            "совместимостью",
+            "особенностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 494,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "архитектурой",
+        "point": "20",
+        "question": "Множество технических и инженерных решений по структурной и функциональной организации сети, обеспечивающих определенную совокупность ее свойств и характеристик, рассматриваемую с точки зрения пользователя сети и отличающую данную конкретную сеть от любой другой сети, нажывается ...?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Открытость",
+            "Гибкость",
+            "Совместимость",
+            "Масштабируемость",
+            "Эффективность",
+            "Однородность",
+            "Системность",
+            "Протяжённость",
+            "Адекватность",
+            "Простота",
+            "Дешевизна",
+            "Общность"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 495,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Открытость, Гибкость, Совместимость, Масштабируемость, Эффективность",
+        "point": "20",
+        "question": "Какие требования предъявляются к организации компьютерных сетей?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "открытостью",
+            "масштабируемостью",
+            "прозрачностью",
+            "эффективностью",
+            "надёжностью",
+            "системностью",
+            "верифицируемостью",
+            "множественностью",
+            "совместимостью",
+            "дуплицируемостью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 496,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "открытостью",
+        "point": "20",
+        "question": "Возможность включения дополнительных компонентов в компьютерную сеть без изменения существующих технических и программных средств называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "гибкостью",
+            "открытостью",
+            "эффективностью",
+            "адекватностью",
+            "прозрачностью",
+            "масштабируемостью",
+            "надежностью",
+            "комплексируемостью",
+            "функциональностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 497,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "гибкостью",
+        "point": "20",
+        "question": "Сохранение работоспособности при изменении структуры вычислительной сети в результате отключения или подключения  оборудования или выхода из строя отдельных компонентов называется ... Разбор оскуляцией",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "совместимостью",
+            "эффективностью",
+            "масштабируемостью",
+            "прозрачностью",
+            "системностью",
+            "оскуляцией",
+            "функциональностью",
+            "взаимозаменяемостью",
+            "дублированием",
+            "надежностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 498,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "совместимостью",
+        "point": "20",
+        "question": "Возможность работы в сети оборудования разного типа и разных производителей называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "масштабируемостью",
+            "открытостью",
+            "эффективностью",
+            "гибкостью",
+            "надёжностью",
+            "адекватностью",
+            "совместимостью",
+            "наращиваемостью",
+            "прозрачностью",
+            "виртуальностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 499,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "масштабируемостью",
+        "point": "20",
+        "question": "Способность компьютерной сети не снижать свою производительность при добавлении узлов и каналов связи называется... Разбор эскалацией",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "эффективностью",
+            "открытостью",
+            "закрытостью",
+            "надёжностью",
+            "гибкостью",
+            "масштабируемостью",
+            "экономичностью",
+            "функциональностью",
+            "безопасностью",
+            "инвариантностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 500,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "эффективностью",
+        "point": "20",
+        "question": "Обеспечение требуемого качества обслуживания пользователей компьютерной сети при минимальных затратах называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "архитектурой",
+            "организацией",
+            "технологией",
+            "функциональностью",
+            "структуризацией",
+            "масштабируемостью",
+            "гибкостью",
+            "эффективностью",
+            "совместимостью",
+            "особенностью"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 501,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "архитектурой",
+        "point": "20",
+        "question": "Множество технических и инженерных решений по структурной и функциональной организации сети, обеспечивающих определенную совокупность ее свойств и характеристик, рассматриваемую с точки зрения пользователя сети и отличающую данную конкретную сеть от любой другой сети, нажывается ...?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Протокольный блок данных",
+            "Время двойного оборота",
+            "Путь передачи данных",
+            "Протокол прикладного уровня",
+            "Метод внутренней маршрутизации",
+            "Технология коммутации",
+            "Дейтаграммный протокол устройства",
+            "Протокол дейтаграммных пользователей",
+            "Уникальный путь передачи данных",
+            "Протокол канального уровня"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 502,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Протокольный блок данных",
+        "point": "20",
+        "question": "PDU - это ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "PDU",
+            "pdu",
+            "ЗВГ"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 503,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "PDU, pdu, ЗВГ",
+        "point": "20",
+        "question": "Какая англоязычная аббревиатура соответствует термину \"протокольный блок данных\"?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "кадр",
+            "кадром",
+            "Кадр",
+            "Кадром",
+            "frame",
+            "Frame"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "explanation": null,
+        "id": 504,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "кадр, кадром, Кадр, Кадром, frame, Frame",
+        "point": "20",
+        "question": "Как называется блок данных, передаваемый на канальном уровне?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "пакет",
+            "Пакет",
+            "packet",
+            "Packet"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 505,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "пакет, Пакет, packet, Packet",
+        "point": "20",
+        "question": "Как называется блок данных, передаваемый на сетевом уровне?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Полносвязная",
+            "полносвязная",
+            "полносвязной",
+            "Полносвязной"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 506,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Полносвязная, полносвязная, полносвязной, Полносвязной",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Многосвязная",
+            "Общая шина",
+            "Дерево",
+            "Звезда",
+            "Кольцо",
+            "Полносвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 507,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Многосвязная",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1_p.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Многосвязная",
+            "Общая шина",
+            "Дерево",
+            "Звезда",
+            "Кольцо",
+            "Полносвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная",
+            "Стробоскопическая"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 508,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Многосвязная",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1_kk.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Звезда",
+            "Общая шина",
+            "Дерево",
+            "Полносвязная",
+            "Кольцо",
+            "Многосвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 509,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Звезда",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1_z.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Кольцо",
+            "Общая шина",
+            "Дерево",
+            "Звезда",
+            "Полносвязная",
+            "Многосвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная",
+            "Стробоскопическая"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 510,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Кольцо",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1_k.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Общая шина",
+            "Полносвязная",
+            "Дерево",
+            "Звезда",
+            "Кольцо",
+            "Многосвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная",
+            "Стробоскопическая"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 511,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Общая шина",
+        "point": "20",
+        "question": "Как называется представленная на рисунке топология?<br> <img src='pics\\1_osh.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "хоп",
+            "хопы",
+            "в хопах",
+            "hop"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 512,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "хоп, хопы, в хопах, hop",
+        "point": "20",
+        "question": "В каких единицах обычно измеряется длина маршрута доставки сообщений при сравнении разных топологий? <br><br>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Полносвязная",
+            "Общая шина",
+            "Дерево",
+            "Звезда",
+            "Кольцо",
+            "Многосвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 513,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Полносвязная",
+        "point": "20",
+        "question": "Какая топология обеспечивает минимальное время доставки сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Полносвязная",
+            "полносвязная",
+            "Полносвязной",
+            "полносвязной"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 514,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Полносвязная, полносвязная, Полносвязной, полносвязной",
+        "point": "20",
+        "question": "Какая топология СПД обладает максимальной надежностью?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Общая шина",
+            "Полносвязная",
+            "Дерево",
+            "Звезда",
+            "Кольцо",
+            "Многосвязная",
+            "Смешанная",
+            "Амбивалентная",
+            "Робастная",
+            "Канальная",
+            "Стробоскопическая"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 515,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Общая шина",
+        "point": "20",
+        "question": "Какая топология является самой простой и дешевой?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Физическая топология полностью определяется структурой связи узлов",
+            "Логическая топология зависит от последовательности передачи данных между узлами",
+            "Физическая топология сети \"Кольцо\" может совпадать с \"Полносвязной\" при некотором количестве узлов в сети",
+            "Физическая топология зависит от последовательности передачи данных между узлами",
+            "Физическая и логическая топологии всегда идентичны",
+            "Физическая и логическая топологии всегда отличаются",
+            "Логическая топология полностью определяется структурой связи узлов."
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 516,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Физическая топология полностью определяется структурой связи узлов, Логическая топология зависит от последовательности передачи данных между узлами, Физическая топология сети \"Кольцо\" может совпадать с \"Полносвязной\" при некотором количестве узлов в сети",
+        "point": "20",
+        "question": "Выберите верные утверждения.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "9"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 517,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "9",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Дерево\", состоящей из 10 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "14"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 518,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "14",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Дерево\", состоящей из 15 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "9"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 519,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "9",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Звезда\", состоящей из 10 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "14"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 520,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "14",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Звезда\", состоящей из 15 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 521,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Кольцо\", состоящей из 10 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "15"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 522,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "15",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Кольцо\", состоящей из 15 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "45"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 523,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "45",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Полносвязная\", состоящей из 10 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "105"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 524,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "105",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Полносвязная\", состоящей из 15 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "190"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 525,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "190",
+        "point": "20",
+        "question": "Чему равно количество каналов связи в сети с топологией \"Полносвязная\", состоящей из 20 узлов? <br><br> * В качестве ответа введите целое число",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "12"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 526,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "12",
+        "point": "20",
+        "question": "В сети с топологией \"Кольцо\" 24 компьютера. Чему равна средняя длина маршрута доставки сообщений в такой сети, если пакеты могут двигаться только в одном направлении? <br><br> * В качестве ответа укажите целое число хопов.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "6"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 527,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "6",
+        "point": "20",
+        "question": "В сети с топологией \"Кольцо\" 12 компьютеров. Чему равна средняя длина маршрута доставки сообщений в такой сети, если пакеты могут двигаться только в одном направлении? <br><br> * В качестве ответа укажите целое число хопов.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "2"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 528,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "2",
+        "point": "20",
+        "question": "В сети с топологией \"Кольцо\" 7 компьютеров. Чему равна средняя длина маршрута доставки сообщений в такой сети, если пакеты могут двигаться в обоих направлениях и всегда двигаются по кратчайшему маршруту? <br><br> * В качестве ответа укажите целое число хопов.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "6"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 529,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "6",
+        "point": "20",
+        "question": "В сети с топологией \"Кольцо\" 23 компьютера. Чему равна средняя длина маршрута доставки сообщений в такой сети, если пакеты могут двигаться обоих направлениях и всегда двигаются по кратчайшему маршруту? <br><br> * В качестве ответа укажите целое число хопов.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коммутация пакетов",
+            "коммутация ячеек",
+            "коммутация каналов",
+            "коммутация сообщений",
+            "коммутация маршрутов",
+            "коммутация IP",
+            "коммутация фреймов",
+            "коммутация сегментов",
+            "коммутация путей"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 530,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коммутация пакетов, коммутация ячеек, коммутация каналов, коммутация сообщений",
+        "point": "20",
+        "question": "Какие способы коммутации используются в компьютерных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коммутация каналов",
+            "коммутация пакетов",
+            "коммутация сообщений",
+            "коммутация ячеек",
+            "коммутация маршрутов",
+            "коммутация линий",
+            "коммутация маршрутов",
+            "коммутация IP"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 531,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коммутация каналов",
+        "point": "20",
+        "question": "Какой способ коммутации используется в традиционных (аналоговых) телефонных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коммутация сообщений",
+            "коммутация пакетов",
+            "коммутация сегментов",
+            "коммутация каналов",
+            "коммутация данных",
+            "коммутация маршрутов",
+            "коммутация линий"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 532,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коммутация сообщений, коммутация пакетов",
+        "point": "20",
+        "question": "Какие способы коммутации используют промежуточное хранение передаваемых данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Коммутация каналов",
+            "Коммутация пакетов",
+            "Коммутация сообщений",
+            "Коммутация ячеек",
+            "Коммутация маршрутов",
+            "Коммутация кадров",
+            "Коммутация IP",
+            "Коммутация фреймов"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 533,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Коммутация каналов",
+        "point": "20",
+        "question": "При каком способе коммутации каналы связи должны иметь одинаковые пропускные способности на всем пути передачи?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "возможность использования существующих телефонных каналов",
+            "не требуется память в транзитных узлах для хранения сообщений",
+            "высокая эффективность при передаче больших объемов данных",
+            "каналы связи должны иметь одинаковые пропускные способности на всем пути передачи",
+            "не требуется предварительное установление соединения",
+            "задержка в промежуточных узлах может оказаться значительной",
+            "высокая загрузка каналов связи",
+            "низкая загрузка каналов связи"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 534,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "возможность использования существующих телефонных каналов, не требуется память в транзитных узлах для хранения сообщений, высокая эффективность при передаче больших объемов данных",
+        "point": "20",
+        "question": "Что относится к достоинствам коммутации каналов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "каналы связи должны иметь одинаковые пропускные способности на всем пути передачи",
+            "большие накладные расходы на установление соединения",
+            "необходимость хранения передаваемых сообщений в промежуточных узлах",
+            "задержка в промежуточных узлах может оказаться значительной",
+            "высокие накладные расходы на анализ заголовков",
+            "низкая загрузка каналов связи",
+            "высокая загрузка каналов связи"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 535,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "каналы связи должны иметь одинаковые пропускные способности на всем пути передачи, большие накладные расходы на установление соединения",
+        "point": "20",
+        "question": "Что относится к недостаткам коммутации каналов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "не требуется предварительное установление соединения",
+            "каналы связи на всем пути передачи могут иметь разные пропускные способности",
+            "каналы связи на всем пути передачи должны иметь одинаковые пропускные способности",
+            "незначительные задержки в промежуточных узлах",
+            "не требует большой ёмкости памяти в промежуточных узлах",
+            "требуется предварительное установление соединения, что повышает надёжность передачи"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 536,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "не требуется предварительное установление соединения, каналы связи на всем пути передачи могут иметь разные пропускные способности",
+        "point": "20",
+        "question": "Какими преимуществами обладает коммутация сообщений по сравнению с коммутацией каналов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "необходимость хранения передаваемых сообщений в промежуточных узлах, что требует значительной ёмкости",
+            "памяти при разных длинах передаваемых сообщений",
+            "задержка в промежуточных узлах может оказаться значительной",
+            "значительные накладные расходы на установление соединения",
+            "требуется предварительное установление соединения",
+            "одинаковые пропускные способности на всем пути",
+            "низкая надёжность передачи данных"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 537,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "необходимость хранения передаваемых сообщений в промежуточных узлах, что требует значительной ёмкости, памяти при разных длинах передаваемых сообщений, задержка в промежуточных узлах может оказаться значительной",
+        "point": "20",
+        "question": "Какими недостатками обладает коммутация сообщений по сравнению с коммутацией каналов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "большее время доставки сообщений",
+            "большие затраты буферной памяти в промежуточных узлах",
+            "менее эффективная организация надежной передачи данных",
+            "необходимость хранения передаваемых сообщений в промежуточных узлах",
+            "требуется предварительное установление соединения",
+            "необходимость сборки сообщения в конечном узле",
+            "высокая загрузка каналов связи"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 538,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "большее время доставки сообщений, большие затраты буферной памяти в промежуточных узлах, менее эффективная организация надежной передачи данных",
+        "point": "20",
+        "question": "Какими недостатками обладает коммутация сообщений по сравнению с коммутацией пакетов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "меньшие накладные расходы на анализ заголовков",
+            "не требуется сборка сообщения в узле назначения",
+            "меньше время доставки сообщений",
+            "более эффективное использование буферной памяти",
+            "более эффективная организация надежной передачи данных",
+            "не требуется предварительное установление соединения"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 539,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "меньшие накладные расходы на анализ заголовков, не требуется сборка сообщения в узле назначения",
+        "point": "20",
+        "question": "Какими преимуществами обладает коммутация сообщений по сравнению с коммутацией пакетов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "меньше время доставки сообщений",
+            "более эффективное использование буферной памяти",
+            "более эффективная организация надежной передачи данных",
+            "меньше накладные расходы на анализ заголовков всех пакетов сообщения",
+            "не требуется сборка сообщения в узле назначения",
+            "не требуется предварительное установление соединения",
+            "пакеты могут иметь разный размер",
+            "размер пакета не ограничен",
+            "размер сообщения не ограничен"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 540,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "меньше время доставки сообщений, более эффективное использование буферной памяти, более эффективная организация надежной передачи данных",
+        "point": "20",
+        "question": "Какими преимуществами обладает коммутация пакетов по сравнению с коммутацией сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "более высокие накладные расходы на передачу и анализ заголовков",
+            "необходимость сборки из пакетов в узле назначения",
+            "большее время доставки сообщений",
+            "менее эффективное использование буферной памяти",
+            "менее эффективная организация надежной передачи данных",
+            "требуется предварительное установление соединения",
+            "не требуется предварительное установление соединения",
+            "более низкие накладные расходы на передачу и анализ заголовков"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 541,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "более высокие накладные расходы на передачу и анализ заголовков, необходимость сборки из пакетов в узле назначения",
+        "point": "20",
+        "question": "Какими недостатками обладает коммутация пакетов по сравнению с коммутацией сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "ограниченным размером пакетов",
+            "большим числом пакетов",
+            "разными маршрутами пакетов",
+            "небольшим числом пакетов",
+            "неограниченным размером пакетов",
+            "одинаковыми маршрутами пакетов"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 542,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "ограниченным размером пакетов",
+        "point": "20",
+        "question": "Чем обусловлен тот факт, что при коммутации пакетов буферная память используется более эффективно, чем при коммутации сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "разные пакеты одного и того же сообщения передаются параллельно по разным каналам",
+            "скорость передачи пакетов по каналам выше, чем при передаче сообщений",
+            "разные собщения передаются параллельно по разным каналам",
+            "разные пакеты одного и того же собщения передаются одновременно по одному и тому же каналу",
+            "скорость передачи пакетов выше, чем сообщений",
+            "меньше задержки в узлах связи",
+            "разные сообщения одного и того же пакета передаются параллельно по разным каналам",
+            "накладные расходы на передачу заголовков пакетов меньше, чем на передачу заголовков сообщений"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 543,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "разные пакеты одного и того же сообщения передаются параллельно по разным каналам",
+        "point": "20",
+        "question": "За счёт чего время доставки сообщений при коммутации пакетов меньше, чем при коммутации сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коммутация сообщений",
+            "коммутация каналов",
+            "коммутация пакетов",
+            "коммутация ячеек",
+            "коммутация маршрутов",
+            "коммутация кадров",
+            "коммутация IP"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 544,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коммутация сообщений",
+        "point": "20",
+        "question": "При каком способе коммутации затраты на буферную память в узлах оказываются наибольшими?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "контроль передаваемых данных осуществляется для каждого пакета",
+            "в случае обнаружения ошибки переприему подлежит только один пакет",
+            "не осуществляется контроль передаваемых данных",
+            "пакеты не теряются в сети",
+            "используются более надёжные каналы связи",
+            "не требуется большая буферная память",
+            "пакеты передаются разными маршрутами",
+            "контроль передаваемых данных осуществляется для всего сообщения"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 545,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "контроль передаваемых данных осуществляется для каждого пакета, в случае обнаружения ошибки переприему подлежит только один пакет",
+        "point": "20",
+        "question": "Почему коммутация пакетов обеспечивает более эффективную организацию надежной передачи данных, чем коммутация сообщений?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "маленькие задержки ячеек в узлах",
+            "не монополизируется канал связи",
+            "быстрая обработка заголовка ячейки в узлах, поскольку местоположение заголовка строго фиксировано",
+            "более эффективная, по сравнению с коммутацией пакетов, организация буферной памяти и надежной передачи данных",
+            "задержка ячеек в узлах - величина постоянная",
+            "монополизируется канал связи",
+            "не требуется обработка заголовка ячейки в узлах"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 546,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "маленькие задержки ячеек в узлах, не монополизируется канал связи, быстрая обработка заголовка ячейки в узлах, поскольку местоположение заголовка строго фиксировано, более эффективная, по сравнению с коммутацией пакетов, организация буферной памяти и надежной передачи данных",
+        "point": "20",
+        "question": "Основные достоинства коммутации ячеек?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коммутация пакетов",
+            "коммутация сообщений",
+            "коммутация каналов",
+            "коммутация ячеек",
+            "коммутация маршрутов",
+            "коммутация кадров",
+            "коммутация IP"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 547,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коммутация пакетов",
+        "point": "20",
+        "question": "Какой способ коммутации является основным в современных компьютерных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "каналов",
+            "пакетов",
+            "сообщений",
+            "маршрутов",
+            "линий",
+            "передач",
+            "фреймов"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 548,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "каналов, пакетов",
+        "point": "20",
+        "question": "Какие способы коммутации являются основными и наиболее широко используемыми в компьютерных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "дейтаграммный",
+            "виртуальный канал",
+            "программный",
+            "реальный канал",
+            "полносвязный",
+            "маршрутизация",
+            "параллельный канал",
+            "виртуальный маршрут",
+            "дельтаграммный"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 549,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "дейтаграммный, виртуальный канал",
+        "point": "20",
+        "question": "Какие способы передачи пакетов используются  в компьютерной сети?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "дейтаграммном",
+            "дейтаграммный",
+            "при дейтаграммном",
+            "Дейтаграммном",
+            "Дейтаграммный",
+            "При дейтаграммном",
+            "датаграммный",
+            "датаграммного"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "explanation": null,
+        "id": 550,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "дейтаграммном, дейтаграммный, при дейтаграммном, Дейтаграммном, Дейтаграммный, При дейтаграммном, датаграммный, датаграммного",
+        "point": "20",
+        "question": "Как называется способ передачи данных, при котором пакеты одного и того же сообщения могут передаваться между двумя взаимодействующими абонентами по разным маршрутам? <br><br>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "дейтаграммном",
+            "дейтаграммный",
+            "при дейтаграммном",
+            "Дейтаграммном",
+            "Дейтаграммный",
+            "При дейтаграммном",
+            "датаграммный",
+            "датаграммного"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "explanation": null,
+        "id": 551,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "дейтаграммном, дейтаграммный, при дейтаграммном, Дейтаграммном, Дейтаграммный, При дейтаграммном, датаграммный, датаграммного",
+        "point": "20",
+        "question": "Как называется способ передачи данных, при котором пакеты одного и того же сообщения приходят в конечный узел в произвольной последовательности? <br><br>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "простота организации и реализации передачи данных - каждый пакет сообщения передается независимо от других",
+            "каждый пакет выбирает наилучший путь",
+            "все пакеты передаются по одному и тому же пути",
+            "пакеты не теряются в процессе передачи",
+            "сообщение не может быть передано получателю, пока в конечном узле не соберутся все пакеты данного сообщения",
+            "в конечном узле не требуется собирать все пакеты сообщения",
+            "обеспечивается надежная передача"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 552,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "простота организации и реализации передачи данных - каждый пакет сообщения передается независимо от других, каждый пакет выбирает наилучший путь",
+        "point": "20",
+        "question": "Какими достоинствами обладает дейтаграммный способ передачи пакетов? пакетов",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "наличие накладных расходов на установление соединения",
+            "неэффективное использование ресурсов сети",
+            "требуется установление физического соединения между абонентами",
+            "пакеты передаются без промежуточного хранения в узлах сети",
+            "пакет двигаются разными маршрутами",
+            "отсутствие накладных расходов на установление соединения",
+            "пакеты проступают в конечный узел в произвольном порядке"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 553,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "наличие накладных расходов на установление соединения, неэффективное использование ресурсов сети",
+        "point": "20",
+        "question": "Какими недостатками обладает способ передачи пакетов \"виртуальный канал\"?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "усложняется процесс сборки сообщения из пакетов, т.к. они могут приходить в конечный узел в произвольном порядке",
+            "каждый пакет сообщения передается независимо от других пакетов",
+            "пакет двигаются разными маршрутами",
+            "не требуется предварительно устанавливать соединение между абонентами",
+            "требуется предварительно устанавливать соединение между абонентами",
+            "пакеты могут иметь слишком большую длину"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 554,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "усложняется процесс сборки сообщения из пакетов, т.к. они могут приходить в конечный узел в произвольном порядке",
+        "point": "20",
+        "question": "Основной недостаток дейтаграммного способа передачи данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Виртуальный канал",
+            "Дейтаграммный",
+            "Программный",
+            "Случайный",
+            "Лавинообразный",
+            "Однопутевой",
+            "Многопутевой",
+            "Статический"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 555,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Виртуальный канал",
+        "point": "20",
+        "question": "При каком способе передачи пакеты передаются в сети по одному и тому же маршруту?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Дейтаграммный",
+            "Виртуальный канал",
+            "Программный",
+            "Случайный",
+            "Системный",
+            "Многопутевой",
+            "Адаптивный",
+            "Динамический"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 556,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Дейтаграммный",
+        "point": "20",
+        "question": "При каком способе передачи пакеты одного и того же сообщения передаются в сети по разным маршрутам?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "лавинообразные",
+            "по предыдущему опыту",
+            "случайные",
+            "однопутевые",
+            "многопутевые",
+            "локальные",
+            "распределённые",
+            "централизованные"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 557,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "лавинообразные, по предыдущему опыту, случайные",
+        "point": "20",
+        "question": "Какие методы маршрутизации относятся к простым?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "однопутевые",
+            "многопутевые",
+            "по предыдущему опыту",
+            "локальные",
+            "распределённые",
+            "централизованные",
+            "случайные",
+            "лавинообразные"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 558,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "однопутевые, многопутевые",
+        "point": "20",
+        "question": "Какие методы маршрутизации относятся к фиксированным?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "локальные",
+            "централизованные",
+            "распределённые",
+            "случайные",
+            "лавинообразные",
+            "однопутевые",
+            "многопутевые",
+            "по предыдущему опыту"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 559,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "локальные, централизованные, распределённые",
+        "point": "20",
+        "question": "Какие методы маршрутизации относятся к адаптивным?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "локальный",
+            "по предыдущему опыту",
+            "распределённый",
+            "централизованный",
+            "случайный",
+            "фиксированный",
+            "лавинообразный"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 560,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "локальный",
+        "point": "20",
+        "question": "В каком методе маршрутизации изменение маршрутной таблицы зависит от состояний выходных буферов данного узла (маршрутизатора) и не зависит от состояния соседних узлов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "распределённый",
+            "локальный",
+            "по предыдущему опыту",
+            "централизованный",
+            "случайный",
+            "фиксированный",
+            "лавинообразный"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 561,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "распределённый",
+        "point": "20",
+        "question": "В каком методе маршрутизации изменение маршрутной таблицы зависит от состояний соседних узлов (маршрутизаторов)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "по предыдущему опыту",
+            "локальный",
+            "распределённый",
+            "централизованный",
+            "случайный",
+            "фиксированный",
+            "лавинообразный"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 562,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "по предыдущему опыту",
+        "point": "20",
+        "question": "В каком методе маршрутизации изменение маршрутной таблицы осуществляется на основе анализа адресов отправителей пакетов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Таймаут",
+            "Период",
+            "Время передачи",
+            "Задержка",
+            "Флуктуация",
+            "Дельта-тайм",
+            "Время ожидания",
+            "Время подтверждения",
+            "Время отсечки",
+            "Время окна",
+            "Ширина окна",
+            "Таймслот",
+            "Временной слот"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 563,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Таймаут",
+        "point": "20",
+        "question": "Интервал времени, в течение которого узел сети, передавший пакет, ожидает подтверждения - это…",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "минимум вдвое больше, чем время передачи кадра",
+            "больше, чем время передачи кадра в прямом направлении",
+            "больше, чем время передачи кадра в обратном направлении",
+            "больше, чем время передачи квитанции",
+            "больше, чем время формирования квитанции",
+            "вдвое больше, чем время передачи квитанции",
+            "максимум вдвое больше, чем время передачи кадра"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 564,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "минимум вдвое больше, чем время передачи кадра",
+        "point": "20",
+        "question": "Из какого условия обычно определяется величина тайм-аута при единичной ширине окна?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "неоднородность потока данных",
+            "разные требования к качеству передачи данных разных типов",
+            "возникновение периодов перегрузок",
+            "нестационарность трафика",
+            "стационарность трафика",
+            "одинаковые требования к качеству передачи данных разных типов",
+            "однородность потока данных",
+            "отсутствие перегрузок"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 565,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "неоднородность потока данных, разные требования к качеству передачи данных разных типов, возникновение периодов перегрузок, нестационарность трафика",
+        "point": "20",
+        "question": "Какие особенности присущи сетевому компьютерному трафику?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "обеспечение надежной передачи данных",
+            "повышение эффективости загрузки оборудования сети",
+            "обеспечение требуемого уровня задержек при передаче по сети",
+            "предотвращение перегрузок и блокировок",
+            "повышение помехоустойчивости",
+            "шифрование трафика",
+            "антивирусная защита",
+            "синхронизация передаваемых данных"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 566,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "обеспечение надежной передачи данных, повышение эффективости загрузки оборудования сети, обеспечение требуемого уровня задержек при передаче по сети, предотвращение перегрузок и блокировок",
+        "point": "20",
+        "question": "Какие цели преследует управление трафиком?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "надежная передача данных",
+            "эффективная загрузка оборудования (каналов и узлов) сети",
+            "малые задержки при передаче по сети",
+            "предотвращение перегрузок и блокировок",
+            "выбор наилучшего маршрута",
+            "шифрация трафика на основе заданного алгоритма",
+            "безопасная передача данных"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 567,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "надежная передача данных",
+        "point": "20",
+        "question": "Какая задача реализуется за счет механизмов квитирования и тайм-аута?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "5"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 568,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "5",
+        "point": "20",
+        "question": "Какая из представленных на графике зависимостей (номер) отражает зависимость производительности сети от числа пакетов в сети?<br> <img src='pics\\1_pr.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "за счет механизма квитирования",
+            "за счет использования бит-стаффинга",
+            "за счёт введения приоритетов",
+            "за счёт маршрутизации",
+            "за счёт коммутации",
+            "за счёт применения виртуальных каналов"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 569,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "за счет механизма квитирования",
+        "point": "20",
+        "question": "За счёт чего в телекоммуникационной сети обеспечивается надежная передача данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "положительная квитанция",
+            "пакет соглашения",
+            "отрицательная квитанция",
+            "безошибочная квитанция",
+            "кадр доставки",
+            "квитированный прием",
+            "положительный кадр",
+            "отрицательный кадр"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 570,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "положительная квитанция",
+        "point": "20",
+        "question": "Как называется служебный кадр, подтверждающий, что данные переданы без ошибок?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "отрицательная квитанция",
+            "положительная квитанция",
+            "ошибочная квитанция",
+            "контрольная квитанция",
+            "ошибочные данные",
+            "отрицательный кадр",
+            "ошибочный кадр"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 571,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "отрицательная квитанция",
+        "point": "20",
+        "question": "Как называется служебный кадр, свидетельствующий, что переданные данные содержат ошибку?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10111110011111010111110110"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 572,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10111110011111010111110110",
+        "point": "20",
+        "question": "Какой вид после реализации процедуры бит-стаффинг примет кадр: 10111110111111011111110 ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11111001111011111011111011"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 573,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11111001111011111011111011",
+        "point": "20",
+        "question": "Какой вид после реализации процедуры бит-стаффинга примет кадр: 11111011110111111111111 ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11111011110111111111111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 574,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11111011110111111111111",
+        "point": "20",
+        "question": "Восстановите кадр, переданный в соответствии с процедурой бит-стаффинга и имеющий вид 11111001111011111011111011  ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "1001101111100111111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 575,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "1001101111100111111",
+        "point": "20",
+        "question": "Восстановите кадр, переданный в соответствии с процедурой бит-стаффинга и имеющий вид 100110111110001111101  ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "увеличить загрузку канала связи",
+            "увеличить загрузку узла связи",
+            "уменьшить загрузку канала связи",
+            "уменьшить загрузку узла связи",
+            "увеличить надёжность доставки кадров",
+            "уменьшить время доставки кадров"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 576,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "увеличить загрузку канала связи",
+        "point": "20",
+        "question": "Основное назначение \"механизма скользящего окна\"?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "максимальное число кадров, которые могут быть переданы без подтверждения",
+            "минимальное число кадров, которые могут быть переданы без подтверждения",
+            "минимальное время, в течение которого могут быть переданы кадры без подтверждения",
+            "минимальное время, в течение которого передающий узел ожидает подтверждения",
+            "максимальное время, в течение которого могут быть переданы кадры без подтверждения",
+            "максимальное время, в течение которого передающий узел ожидает подтверждения",
+            "максимальное число квитанций, которые должны быть переданы",
+            "минимальное число квитанций, которые должны быть переданы"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 577,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "максимальное число кадров, которые могут быть переданы без подтверждения",
+        "point": "20",
+        "question": "Что такое \"ширина окна\"?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "120"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 578,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "120",
+        "point": "20",
+        "question": "Ширина окна равна 128. Передающий узел, передавший 36-й кадр, получил подтверждение о приёме 28-го кадра. Какое максимальное число кадров может ещё передать узел без подтверждения?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "127"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 579,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "127",
+        "point": "20",
+        "question": "Ширина окна равна 128. Передающий узел, передавший 39-й кадр, получил подтверждение о приёме 38-го кадра. Какое максимальное число кадров может ещё передать узел без подтверждения?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "6"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 580,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "6",
+        "point": "20",
+        "question": "Ширина окна равна 8. Передающий узел, передавший 5-й кадр, получил подтверждение о приёме 3-го кадра. Какое максимальное число кадров может ещё передать узел без подтверждения?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "15"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 581,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "15",
+        "point": "20",
+        "question": "Ширина окна равна 16. Передающий узел, передавший 6-й кадр, получил подтверждение о приёме 5-го кадра. Какое максимальное число кадров может ещё передать узел без подтверждения?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "увеличение загрузки канала связи",
+            "надежная передача данных",
+            "малые задержки при передаче по сети",
+            "предотвращение перегрузок и блокировок при передаче данных",
+            "выбор наилучшего маршрута",
+            "шифрация трафика на основе заданного алгоритма"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 582,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "увеличение загрузки канала связи",
+        "point": "20",
+        "question": "Какая из перечисленных задач реализуется за счет применения механизма окна?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "bps",
+            "кбит/с",
+            "Мбит/с",
+            "мбайт/с",
+            "Кбит/с",
+            "Кбайт/с",
+            "Мбод/с",
+            "бод",
+            "Гц",
+            "мбит/с",
+            "МГц/с",
+            "МГц"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 583,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "bps, кбит/с, Мбит/с",
+        "point": "20",
+        "question": "В каких единицах принято измерять пропускную способность каналов связи в компьютерных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "100 000 бит/с",
+            "102 400 бит/с",
+            "800 000 бит/с",
+            "819 200 бит/с",
+            "12 800 байт/с",
+            "0.01 Мбит/с",
+            "правильный вариант отсутствует"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 584,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "100 000 бит/с",
+        "point": "20",
+        "question": "Чему соответствует пропускная способность канала связи в 100 кбит/с?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "128 кбит/с",
+            "10 Мбит/с",
+            "1 Гбит/с",
+            "64 Кбит/с",
+            "128 кбайт/с",
+            "200 Кбайт/с",
+            "256 гбит/с",
+            "512 мбит/с"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 585,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "128 кбит/с, 10 Мбит/с, 1 Гбит/с",
+        "point": "20",
+        "question": "Выберите корректно заданные значения пропускных способностей канала связи в компьютерной сети?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "100 Кбит/с",
+            "256 кбайт/с",
+            "512 Кбайт/с",
+            "10 мбит/с",
+            "1 Фбит/с",
+            "64 кбит/с",
+            "10 Гбит/с",
+            "10 Тбит/с",
+            "100 Мбит/с",
+            "2400 бит/с"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 586,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "100 Кбит/с, 256 кбайт/с, 512 Кбайт/с, 10 мбит/с, 1 Фбит/с",
+        "point": "20",
+        "question": "Укажите некорректно заданные значения пропускных способностей канала связи в компьютерной сети?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Частотное мультиплексирование",
+            "Временное мультиплексирование",
+            "Фазовое мультиплексирование",
+            "Волновое мультиплексирование",
+            "Дискретное мультиплексирование",
+            "Оптический цифровой модулятор",
+            "Фазовое дискретное мультиплексирование"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 587,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Частотное мультиплексирование",
+        "point": "20",
+        "question": "Что такое FDM?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Временное мультиплексирование",
+            "Частотное мультиплексирование",
+            "Тройное мультиплексирование",
+            "Волновое мультиплексирование",
+            "Терминальное дискретное мультиплексирование",
+            "Троичная цифровая модуляция",
+            "Временная дискретная модуляция"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 588,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Временное мультиплексирование",
+        "point": "20",
+        "question": "Что такое TDM?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Волновое мультиплексирование",
+            "Частотное мультиплексирование",
+            "Временное мультиплексирование",
+            "Сложное мультиплексирование",
+            "Беспроводное мультиплексирование",
+            "Беспроводной цифровой мультиплексор",
+            "Удаленный цифровой мультиплексор"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 589,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Волновое мультиплексирование",
+        "point": "20",
+        "question": "Что такое WDM?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "частотное мультиплексирование",
+            "временн'ое мультиплексирование",
+            "волновое мультиплексирование",
+            "амплитудное  мультиплексирование",
+            "фазовое  мультиплексирование",
+            "смешанное  мультиплексирование",
+            "комбинированное  мультиплексирование",
+            "амплитудно-импульсное мультиплексирование",
+            "вр'еменное мультиплексирование",
+            "импульсно-кодовое мультиплексирование",
+            "квадратурное мультиплексирование"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 590,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "частотное мультиплексирование, временн'ое мультиплексирование, волновое мультиплексирование",
+        "point": "20",
+        "question": "Какие методы мультиплексирования используются в современных вычислительных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "FDM",
+            "АВЬ",
+            "fdm"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 591,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "FDM, АВЬ, fdm",
+        "point": "20",
+        "question": "Какая англоязычная аббревиатура означает частотное мультиплексирование?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "TDM",
+            "ЕВЬ",
+            "tdm"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 592,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "TDM, ЕВЬ, tdm",
+        "point": "20",
+        "question": "Какая англоязычная аббревиатура означает временно'е мультиплексирование?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "WDM",
+            "ЦВЬ",
+            "wdm"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 593,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "WDM, ЦВЬ, wdm",
+        "point": "20",
+        "question": "Какая англоязычная аббревиатура означает волновое мультиплексирование?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "TDM",
+            "tdm",
+            "ЕВЬ",
+            "евь"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 594,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "TDM, tdm, ЕВЬ, евь",
+        "point": "20",
+        "question": "Какой метод мультиплексирования показан на рисунке (англоязычная аббревиатура)? <br><img src='pics\\tdm.png'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "WDM",
+            "wdm",
+            "ЦВЬ",
+            "цвь"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 595,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "WDM, wdm, ЦВЬ, цвь",
+        "point": "20",
+        "question": "Какой метод мультиплексирования показан на рисунке (англоязычная аббревиатура)? <br><img src='pics\\wdm.png'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "FDM",
+            "fdm",
+            "АВЬ",
+            "авь"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 596,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "FDM, fdm, АВЬ, авь",
+        "point": "20",
+        "question": "Какой метод мультиплексирования показан на рисунке (англоязычная аббревиатура)? <br><img src='pics\\fdm.png'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "При статическом мультиплексировании каждой паре взаимодействующих абонентов выделяется фиксированный временн'ой слот.",
+            "При статистическом мультиплексировании каждая пара взаимодействующих абонентов может использовать любой свободный временн'ой слот.",
+            "При асинхронном мультиплексировании для идентификации абонента-получателя необходимо указывать его адрес.",
+            "При синхронном мультиплексировании  идентификации абонента-получателя осуществляется по номеру временн'ого слота.",
+            "При статистическом мультиплексировании паре взаимодействующих абонентов может быть выделен любой временн'ой слот.",
+            "При синхронном мультиплексировании каждая пара взаимодействующих абонентов может использовать любой свободный временн'ой слот.",
+            "При статическом мультиплексировании для идентификации абонента-получателя необходимо указывать его адрес.",
+            "При асинхронном мультиплексировании идентификация абонента-получателя осуществляется по номеру временн'ого слота.",
+            "При асинхронном мультиплексировании каждой паре взаимодействующих абонентов выделяется фиксированный временн'ой слот.",
+            "При синхронном мультиплексировании для идентификации абонента-получателя необходимо указать его адрес."
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 597,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "При статическом мультиплексировании каждой паре взаимодействующих абонентов выделяется фиксированный временн'ой слот., При статистическом мультиплексировании каждая пара взаимодействующих абонентов может использовать любой свободный временн'ой слот., При асинхронном мультиплексировании для идентификации абонента-получателя необходимо указывать его адрес., При синхронном мультиплексировании  идентификации абонента-получателя осуществляется по номеру временн'ого слота., При статистическом мультиплексировании паре взаимодействующих абонентов может быть выделен любой временн'ой слот.",
+        "point": "20",
+        "question": "Выберите правильные утверждения в отношении временного мультиплексирования (TDM).",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "SNA",
+            "TCP/IP",
+            "XNS",
+            "IPX",
+            "AppleTalk",
+            "DECnet",
+            "TCP",
+            "IP"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 598,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "SNA",
+        "point": "20",
+        "question": "Какой стек протоколов разработан компанией IBM и предназначен для удаленной связи с большими компьютерами?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "стек",
+            "стек протоколов",
+            "Стек",
+            "Стек протоколов"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 599,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "стек, стек протоколов, Стек, Стек протоколов",
+        "point": "20",
+        "question": "Как называется множество протоколов разных уровней одной сетевой технологии?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "TCP/IP",
+            "XNS",
+            "IPX",
+            "AppleTalk",
+            "DECnet",
+            "SNA",
+            "LAN",
+            "WAN",
+            "ISO"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "explanation": null,
+        "id": 600,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "TCP/IP, XNS, IPX, AppleTalk, DECnet, SNA",
+        "point": "20",
+        "question": "Что являеся сетевыми стеками протоколов?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "4"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 601,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "4",
+        "point": "20",
+        "question": "Сколько уровней содержит стек протоколов TCP/IP?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "кодирование",
+            "Кодирование",
+            "Кодированием",
+            "кодированием"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 602,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "кодирование, Кодирование, Кодированием, кодированием",
+        "point": "20",
+        "question": "Как называется преобразование данных в вид, позволяющий передавать их по выбранному каналу связи и обнаруживать ошибки, возникающие из-за помех при их передаче?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "электрические",
+            "электромагнитные",
+            "оптические",
+            "акустические",
+            "магнитные",
+            "гравитационные",
+            "инерционные"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 603,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "электрические, электромагнитные, оптические",
+        "point": "20",
+        "question": "Какие типы сигналов используются в компьютерных сетях для передачи данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "акустические",
+            "логические",
+            "магнитные",
+            "гравитационные",
+            "радиоволны",
+            "электрические",
+            "оптические"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 604,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "акустические, логические, магнитные, гравитационные",
+        "point": "20",
+        "question": "Какие типы сигналов для передачи данных не используются в компьютерных сетях ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "помехоустойчивость",
+            "Помехоустойчивость",
+            "помехозащищенность",
+            "Помехозащищенность"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 605,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "помехоустойчивость, Помехоустойчивость, помехозащищенность, Помехозащищенность",
+        "point": "20",
+        "question": "Как называется способность системы противостоять воздействию помех?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "пропускная способность канала связи",
+            "полоса пропускания канала связи",
+            "полоса пропускания сигнала",
+            "скорость модуляции",
+            "полоса частот",
+            "скорость кодирования",
+            "спектр",
+            "скорость передачи"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 606,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "пропускная способность канала связи",
+        "point": "20",
+        "question": "Как называется максимальное количество данных, которое может быть передано по каналу связи за единицу времени?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "кбит/с",
+            "Мбит/с",
+            "Гбит/с",
+            "Тбит/с",
+            "мбит/с",
+            "Кбит/с",
+            "гбит/с",
+            "тбит/с",
+            "бод/с",
+            "кбайт/с",
+            "Гц"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 607,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "кбит/с, Мбит/с, Гбит/с, Тбит/с",
+        "point": "20",
+        "question": "В каких единицах может измеряться пропускная способность канала связи в компьютерных сетях?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "пропускной способности канала",
+            "полосы пропускания канала",
+            "скорости модуляции",
+            "времени передачи данных",
+            "загрузки канала",
+            "спектра сигнала",
+            "интенсивность битовых ошибок",
+            "вероятность искажения бита"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 608,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "пропускной способности канала",
+        "point": "20",
+        "question": "bps - это единица измерения ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "интенсивность битовых ошибок",
+            "единица измерения скорости модуляции",
+            "сетевой протокол",
+            "показатель помехозащищенности",
+            "единица измерения нагрузки в канале связи",
+            "единица измерения пропускной способности канала связи",
+            "пропускная способность канала",
+            "скорость модуляции",
+            "сетевой протокол"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 609,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "интенсивность битовых ошибок",
+        "point": "20",
+        "question": "BER - это ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Коммутируемым",
+            "Выделенным",
+            "Общим",
+            "Частным",
+            "Постоянным",
+            "Переменным",
+            "Дискретным"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 610,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Коммутируемым",
+        "point": "20",
+        "question": "Канал связи, предоставляемый на определённое время, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Выделенным",
+            "Коммутируемым",
+            "Большим",
+            "Двойным",
+            "Локальным",
+            "Групповым"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 611,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Выделенным",
+        "point": "20",
+        "question": "Канал связи, существующий постоянно между двумя пользователями, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "симплексным",
+            "симплексный",
+            "Симплексный",
+            "Симплексным",
+            "simplex"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 612,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "симплексным, симплексный, Симплексный, Симплексным, simplex",
+        "point": "20",
+        "question": "Канал связи, по которому возможна передача только в одном направлении, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "дуплексный",
+            "дуплексным",
+            "Дуплексный",
+            "Дуплексным",
+            "duplex"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 613,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "дуплексный, дуплексным, Дуплексный, Дуплексным, duplex",
+        "point": "20",
+        "question": "Канал связи, по которому возможна одновременная передача в обоих направлениях, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "полудуплексным",
+            "полудуплексный",
+            "Полудуплексным",
+            "Полудуплексный",
+            "half-duplex",
+            "halfduplex",
+            "half duplex"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "explanation": null,
+        "id": 614,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "полудуплексным, полудуплексный, Полудуплексным, Полудуплексный, half-duplex, halfduplex, half duplex",
+        "point": "20",
+        "question": "Канал связи, по которому возможна передача в обоих направлениях, но в разные моменты времени, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "дБ",
+            "Дб",
+            "кбит",
+            "Кбит",
+            "безразмерная",
+            "бод",
+            "бит/с",
+            "дм",
+            "дб",
+            "Гц",
+            "гц",
+            "гЦ"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 615,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "дБ",
+        "point": "20",
+        "question": "В каких единицах измеряется усиление и ослабление сигнала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "- 20 дБ",
+            "+ 20 дБ",
+            "- 2 дБ",
+            "+ 2 дБ",
+            "- 100 дБ",
+            "+ 20 Бод",
+            "-20 Бод",
+            "+20 Гц",
+            "-20 Гц",
+            "-100 Бод"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 616,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "- 20 дБ",
+        "point": "20",
+        "question": "Мощность сигнала уменьшилась в 100 раз. Чему равно изменение сигнала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "- 40 дБ",
+            "+ 40 дБ",
+            "- 40 Бод",
+            "+ 40 Бод",
+            "- 40 Бод",
+            "+ 40 Бод",
+            "- 100 дБ",
+            "+ 100 дБ"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 617,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "- 40 дБ",
+        "point": "20",
+        "question": "Мощность сигнала уменьшилась в 10000 раз. Чему равно изменение сигнала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "-30 дБ",
+            "-30дБ"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 618,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "-30 дБ, -30дБ",
+        "point": "20",
+        "question": "Мощность сигнала уменьшилась в 1000 раз. Чему равно затухание (число со знаком и размерностью)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "-50 дБ",
+            "-50дБ",
+            "-50 dB",
+            "-50dB"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 619,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "-50 дБ, -50дБ, -50 dB, -50dB",
+        "point": "20",
+        "question": "Мощность сигнала уменьшилась в 100000 раз. Чему равно затухание (число со знаком и размерностью)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "+20 дБ",
+            "+20дБ",
+            "+20 dB",
+            "+20dB"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 620,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "+20 дБ, +20дБ, +20 dB, +20dB",
+        "point": "20",
+        "question": "Мощность сигнала увеличилась в 100 раз. Чему равен коэффициент усиления  (число со знаком и размерностью)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "+10dB",
+            "+10 дБ",
+            "+10дБ",
+            "+10 dB"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 621,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "+10dB, +10 дБ, +10дБ, +10 dB",
+        "point": "20",
+        "question": "Мощность сигнала увеличилась в 10 раз. Чему равен коэффициент усиления  (число со знаком и размерностью)?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "коэффициент передачи",
+            "коэффициентом передачи",
+            "Коэффициент передачи",
+            "Коэффициентом передачи"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 622,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "коэффициент передачи, коэффициентом передачи, Коэффициент передачи, Коэффициентом передачи",
+        "point": "20",
+        "question": "Как называется отношение выходной мощности сигнала ко входной?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 623,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10",
+        "point": "20",
+        "question": "Во сколько раз уменьшится мощность сигнала на расстоянии 100 м, если его ослабление равно:  d=100 дБ/км?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 624,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10",
+        "point": "20",
+        "question": "Во сколько раз уменьшится мощность сигнала на расстоянии 50 м, если его ослабление равно:  d=20 дБ/100 м?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "100"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 625,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "100",
+        "point": "20",
+        "question": "Во сколько раз уменьшится мощность сигнала на расстоянии 2000 м, если его ослабление равно:  d=10 дБ/км?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "1000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 626,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "1000",
+        "point": "20",
+        "question": "Во сколько раз уменьшится мощность сигнала на расстоянии 3 км, если его ослабление равно:  d=10 дБ/км?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "при каскадном включении нескольких устройств коэффициенты затухания складываются",
+            "при каскадном включении нескольких устройств коэффициенты затухания умножаются",
+            "при каскадном включении нескольких устройств коэффициенты затухания  не изменяются",
+            "децибелы соответсвтуют международной системе единиц СИ",
+            "для длинных линий связи затухание в децибелах не изменяется",
+            "для коротких линий связи затухание в децибелах не изменяется",
+            "для длинных линий связи усиление в децибелах не изменяется",
+            "при каскадном включении нескольких устройств коэффициенты передачи складываются",
+            "при каскадном включении нескольких устройств коэффициенты передачи перемножаются"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 627,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "при каскадном включении нескольких устройств коэффициенты затухания складываются",
+        "point": "20",
+        "question": "В чем состоит удобство вычисления затухания в децибелах?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "фаза",
+            "Фаза"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 628,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "фаза, Фаза",
+        "point": "20",
+        "question": "Гармоническое колебание задано уравнением F(t) = X*sin(Y*t + Z). Что такое Z?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "амплитуда",
+            "Амплитуда"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 629,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "амплитуда, Амплитуда",
+        "point": "20",
+        "question": "Гармоническое колебание задано уравнением F(t) = X*sin(Y*t + Z). Что такое X?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Бесконечный",
+            "Ограниченный",
+            "Низкий",
+            "Отрицательный",
+            "Маленький",
+            "Большой",
+            "Широкополосный",
+            "Многополосный",
+            "Конечный",
+            "Основополосный"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 630,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Бесконечный",
+        "point": "20",
+        "question": "Какой спектр частот имеют дискретные сигналы?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Гц",
+            "Герц",
+            "Hz",
+            "Herz"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 631,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Гц, Герц, Hz, Herz",
+        "point": "20",
+        "question": "В каких единицах измеряется линейная частота?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "амплитуда",
+            "фаза",
+            "частота",
+            "коэффициент затухания",
+            "коэффициент передачи",
+            "ослабление сигнала",
+            "девиация",
+            "периодичность",
+            "база"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 632,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "амплитуда, фаза, частота",
+        "point": "20",
+        "question": "Какие параметры гармонического сигнала могут нести информацию?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "спектр - характеристика сигнала",
+            "полоса пропускания - характеристика среды передачи",
+            "для корректной передачи сигнала полоса пропускания должна быть шире спектра",
+            "спектр - характеристика среды передачи",
+            "полоса пропускания - характеристика сигнала",
+            "спектр должен быть больше полосы пропускания",
+            "спектр и полоса пропускания - понятия эквивалентные",
+            "спектр может быть как больше, так и меньше полосы пропускания"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 633,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "спектр - характеристика сигнала, полоса пропускания - характеристика среды передачи, для корректной передачи сигнала полоса пропускания должна быть шире спектра",
+        "point": "20",
+        "question": "Какие утверждения являются верными?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "спектр - характеристика среды передачи",
+            "полоса пропускания - характеристика сигнала",
+            "для корректной передачи сигнала спектр должен быть больше полосы пропускания",
+            "для корректной передачи сигнала спектр может быть как больше, так и меньше полосы пропускания",
+            "спектр - характеристика сигнала",
+            "полоса пропускания - характеристика среды передачи",
+            "полоса пропускания должна быть больше спектра сигнала"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 634,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "спектр - характеристика среды передачи, полоса пропускания - характеристика сигнала, для корректной передачи сигнала спектр должен быть больше полосы пропускания, для корректной передачи сигнала спектр может быть как больше, так и меньше полосы пропускания",
+        "point": "20",
+        "question": "Какие утверждения являются неверными?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Спектр - это характеристика сигнала.",
+            "Полоса пропускания - это характеристика канала связи.",
+            "Спектр - это характеристика канала связи",
+            "Полоса пропускания - это характеристика сигнала.",
+            "Спектр - это характеристика затухания сигнала.",
+            "Полоса пропускания - это характеристика дальности передачи сигнала.",
+            "Спектр - это характеристика пропускной способности канала связи.",
+            "Полоса пропускания - это характеристика затухания сигнала"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 635,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Спектр - это характеристика сигнала., Полоса пропускания - это характеристика канала связи.",
+        "point": "20",
+        "question": "Выберите правильные утверждения",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "среды передачи",
+            "сигнала",
+            "передаваемых данных",
+            "узла связи",
+            "сети передачи данных",
+            "телекоммуникационной сети",
+            "мощности",
+            "амплитуды"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 636,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "среды передачи",
+        "point": "20",
+        "question": "Полоса пропускания - это характеристика ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Спектр сигнала меньше полосы пропускания",
+            "Спектр сигнала больше полосы пропускания",
+            "Спектр сигнала равен бесконечности",
+            "Спектр сигнала положительный",
+            "Спектр сигнала не ограничен",
+            "Спектр сигнала не зависит от полосы пропускания",
+            "Среди приведенных нет правильных ответов"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 637,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Спектр сигнала меньше полосы пропускания",
+        "point": "20",
+        "question": "При каком условии обеспечивается качественная передача сигнала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "3100"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 638,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "3100",
+        "point": "20",
+        "question": "Какую ширину полосы пропускания (в Гц) имеет телефонный канал? Ответ округлите до целых.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "3,1",
+            "3.1"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 639,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "3,1, 3.1",
+        "point": "20",
+        "question": "Какую ширину полосы пропускания (в кГц) имеет телефонный канал? Ответ округлить до 1-го знака после запятой.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "От 300 до 3400 Гц",
+            "От 0 до 4000 Гц",
+            "От 100 до 3000 Гц",
+            "От 100 до 10000 Гц",
+            "От 0 до бесконечности",
+            "От 300 до 10000 Гц",
+            "От 20 до 10000 Гц",
+            "От 40 до 10000 Гц"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 640,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "От 300 до 3400 Гц",
+        "point": "20",
+        "question": "В каком интервале находится полоса пропускания телефонного канала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "абсолютная мощность",
+            "относительная мощность",
+            "опорная мощность",
+            "импульсная мощность",
+            "амплитудная мощность",
+            "фактическая мощность",
+            "энергитическая мощность",
+            "динамическая мощность",
+            "статическая мощность"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 641,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "абсолютная мощность, относительная мощность, опорная мощность",
+        "point": "20",
+        "question": "Что из перечисленного относится к характеристикам мощности электрического сигнала?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "опорная мощность измеряется относительно одного милливатта",
+            "относительная мощность измеряется в децибелах",
+            "абсолютная мощность измеряется в ваттах",
+            "единица измерения опорной мощности - дБм",
+            "единица измерения опорной мощности - дБ",
+            "единица измерения относительной мощности - Вт",
+            "опорная мощность измеряется относительно одного ватта",
+            "относительная мощность измеряется в бодах",
+            "опорная мощность измеряется в бодах",
+            "относительная мощность измеряется в ваттах",
+            "единица измерения опорной мощности - Вт"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 642,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "опорная мощность измеряется относительно одного милливатта, относительная мощность измеряется в децибелах, абсолютная мощность измеряется в ваттах, единица измерения опорной мощности - дБм",
+        "point": "20",
+        "question": "Выберите правильные утверждения.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "динамический диапазон характеризует отношение пиковой мощности к минимальной",
+            "динамический диапазон характеризует отношение максимальной мощности к минимальной",
+            "пикфактор характеризует отношение пиковой мощности к средней",
+            "динамический диапазон и пикфактор измеряются в децибелах",
+            "динамический диапазон характеризует отношение пиковой мощности к средней",
+            "динамический диапазон характеризует отношение максимальной мощности к средней",
+            "пикфактор характеризует отношение пиковой мощности к минимальной",
+            "динамический диапазон и пикфактор измеряются в децибелах",
+            "динамический диапазон измеряется в ваттах, а пикфактор - в децибелах",
+            "динамический диапазон измеряется в децибеллах, а пикфактор - в ваттах"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 643,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "динамический диапазон характеризует отношение пиковой мощности к минимальной, динамический диапазон характеризует отношение максимальной мощности к минимальной, пикфактор характеризует отношение пиковой мощности к средней, динамический диапазон и пикфактор измеряются в децибелах",
+        "point": "20",
+        "question": "Выберите правильные утверждения.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "пикфактор",
+            "пикфактором",
+            "Пикфактор",
+            "Пикфактором"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 644,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "пикфактор, пикфактором, Пикфактор, Пикфактором",
+        "point": "20",
+        "question": "Отношение максимальной мощности сигнала к средней мощности, выраженное в децибелах, называется ...?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "динамический диапазон",
+            "динамическим диапазоном",
+            "Динамический диапазон",
+            "Динамическим диапазоном"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 645,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "динамический диапазон, динамическим диапазоном, Динамический диапазон, Динамическим диапазоном",
+        "point": "20",
+        "question": "Отношение максимальной мощности сигнала к минимальной, выраженное в децибелах, называется ...?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "джиттер",
+            "Джиттер"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 646,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "джиттер, Джиттер",
+        "point": "20",
+        "question": "Дрожание (искажение) фазы - это ...?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "100000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 647,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "100000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность  (кбит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а мощность сигнала равна мощности шума.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "SNR",
+            "snr"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 648,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "SNR, snr",
+        "point": "20",
+        "question": "Какой английской аббревиатурой обозначается отношение мощности передаваемого сигнала к мощности шума на линии связи?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "200000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 649,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "200000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (кбит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "200"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 650,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "200",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (Мбит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "200000000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 651,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "200000000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (бит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "40000000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 652,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "40000000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (бит/с) канала связи при условии, что полоса пропускания равна 20 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "40000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 653,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "40000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (кбит/с) канала связи при условии, что полоса пропускания равна 20 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "40"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 654,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "40",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (Мбит/с) канала связи при условии, что полоса пропускания равна 20 МГц, а отношение мощности сигнала к мощности шума равно 3.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "300"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 655,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "300",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (Мбит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 7.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "300000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 656,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "300000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (кбит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 7.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "300000000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 657,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "300000000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (бит/с) канала связи при условии, что полоса пропускания равна 100 МГц, а отношение мощности сигнала к мощности шума равно 7.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "40000000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 658,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "40000000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (бит/с) канала связи при условии, что полоса пропускания равна 10 МГц, а отношение мощности сигнала к мощности шума равно 15.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "700"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 659,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "700",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (кбит/с) канала связи при условии, что полоса пропускания равна 100 кГц, а отношение мощности сигнала к мощности шума равно 127.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "1000000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 660,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "1000000",
+        "point": "20",
+        "question": "Рассчитать максимально возможную пропускную способность (бит/с) канала связи при условии, что полоса пропускания равна 100 кГц, а отношение мощности сигнала к мощности шума равно 1023.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Амплитудно-импульсной модуляцией",
+            "Аналогово-импульсной модуляцией",
+            "Аналогово-информационной модуляцией",
+            "Амплитудно-информационной модуляцией",
+            "Импульсно-кодовой модуляцией",
+            "Амплитудно-кодовой модуляцией",
+            "Амплитудно-дискретной модуляцией",
+            "Дифференциальной амплитудно-импульсной модуляцией",
+            "Дифференциальной импульсно-кодовой модуляцией",
+            "Дифференциальной аналогово-импульсной модуляцией",
+            "Импульсно-аналоговой модуляцией"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 661,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Амплитудно-импульсной модуляцией",
+        "point": "20",
+        "question": "Модуляция, при которой непрерывный сигнал представляется совокупностью дискретных сигналов с определенной амплитудой, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Амплитудно-импульсная модуляция",
+            "Биполярное кодирование с альтернативной инверсией",
+            "Амплитудная модуляция с инверсией",
+            "Аналогово-информационная модуляция",
+            "Аналогово-импульсная модуляция",
+            "Аналогово-инверсная модуляция",
+            "Амплитудно-импульсовая модальность",
+            "Амплитудно-инверсная модуляция"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 662,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Амплитудно-импульсная модуляция",
+        "point": "20",
+        "question": "Что такое АИМ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "амплитудно-импульсная модуляция",
+            "амплитудно-импульсной модуляцией",
+            "амплитудно-импульсная",
+            "амплитудно-импульсной",
+            "АИМ"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "explanation": null,
+        "id": 663,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "амплитудно-импульсная модуляция, амплитудно-импульсной модуляцией, амплитудно-импульсная, амплитудно-импульсной, АИМ",
+        "point": "20",
+        "question": "Как называется метод модуляции, показанный на рисунке? <br> <img src='pics\\2_АИМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "8000",
+            "восемь тысяч",
+            "8 000"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 664,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "8000, восемь тысяч, 8 000",
+        "point": "20",
+        "question": "Чему равна частота квантования речевого сигнала в методе модуляции, показанном на рисунке? Ответ указать в Герцах. <br> <img src='pics\\2_АИМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Импульсно-кодовая модуляция",
+            "Информационно-кодовая модуляция",
+            "Импульсно-кодовый мультиплексор",
+            "Идентификационный корневой мультиплексор",
+            "Индивидуальный коммутатор-маршрутизатор",
+            "Информационно-коммутируемый модулятор"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 665,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Импульсно-кодовая модуляция",
+        "point": "20",
+        "question": "Что такое ИКМ?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Импульсно-кодовой модуляцией",
+            "Амплитудно-импульсной модуляцией",
+            "Амплитудно-кодовой модуляцией",
+            "Дифференциальной кодовой модуляцией",
+            "Амплитудно-частотной модуляцией",
+            "Амплитудно-фазовой модуляцией",
+            "Цифро-аналоговой модуляцией"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 666,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Импульсно-кодовой модуляцией",
+        "point": "20",
+        "question": "Модуляция, при которой аналоговый сигнал кодируется сериями импульсов, представляющими собой цифровые коды амплитуд в точках отсчета аналогового сигнала, называется ...",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "импульсно-кодовая модуляция",
+            "импульсно-кодовой модуляцией",
+            "импульсно-кодовая",
+            "импульсно-кодовой",
+            "ИКМ",
+            "PCM"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "explanation": null,
+        "id": 667,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "импульсно-кодовая модуляция, импульсно-кодовой модуляцией, импульсно-кодовая, импульсно-кодовой, ИКМ, PCM",
+        "point": "20",
+        "question": "Как называется метод модуляции, показанный на рисунке? <br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "125"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 668,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "125",
+        "point": "20",
+        "question": "Чему равен интервал &#916;t квантования по времени в методе модуляции, показанном на рисунке, при использовании  этого метода в телефонии?  Ответ укажите в микросекундах. <br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0,125",
+            "0.125",
+            "1/8"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 669,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0,125, 0.125, 1/8",
+        "point": "20",
+        "question": "Чему равен интервал квантования по времени &#916;t в методе модуляции, показанном на рисунке, при использовании этого метода в телефонии?  Ответ укажите в миллисекундах. <br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "256"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 670,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "256",
+        "point": "20",
+        "question": "Чему равно количество N уровней квантования по значению сигнала в методе модуляции, показанном на рисунке, при использовании этого метода в телефонии? <br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "64"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 671,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "64",
+        "point": "20",
+        "question": "Какая минимальная пропускная способность необходима для передачи речевого сигнала с использованием метода модуляции, показанного на рисунке, при условии, что количество уровней квантования по значению сигнала равно 256, а интервал квантования по времени равен 125 мкс? Ответ укажите в кбит/с <br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "8",
+            "восемь"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 672,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "8, восемь",
+        "point": "20",
+        "question": "Чему равна частота квантования речевого сигнала в методе модуляции, показанном на рисунке, при использовании этого метода в телефонии? Ответ указать в кГц<br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "8000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 673,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "8000",
+        "point": "20",
+        "question": "Чему равна частота квантования речевого сигнала в методе модуляции, показанном на рисунке, при использовании этого метода в телефонии? Ответ указать в Гц<br> <img src='pics\\2_ИКМ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "потенциальные",
+            "импульсные",
+            "аналоговые",
+            "непрерывные",
+            "симметричные",
+            "асиметричные",
+            "реальные",
+            "сигнальные"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 674,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "потенциальные, импульсные",
+        "point": "20",
+        "question": "Какие коды применяют при цифровом кодировании дискретных данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "NRZ",
+            "nrz"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 675,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "NRZ, nrz",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_NRZ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "AMI",
+            "ami",
+            "ФЬШ",
+            "фьш"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 676,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "AMI, ami, ФЬШ, фьш",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_AMI.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "AMI",
+            "RZ",
+            "NRZ",
+            "NRZI",
+            "MLT-3",
+            "PAM-5",
+            "Манчестер 2"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 677,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "AMI",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_AMI.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Манчестерский",
+            "RZ",
+            "NRZ",
+            "AMI",
+            "PAM-5",
+            "MLT-3",
+            "Потенциальный",
+            "AIM",
+            "IKM"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 678,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Манчестерский",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_Манчестер.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "MLT-3",
+            "AMI",
+            "RZ",
+            "NRZ",
+            "NRZI",
+            "Манчестер 2",
+            "PAM-5"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 679,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "MLT-3",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_MLT.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "MLT-3",
+            "MLT3",
+            "ЬДЕ-3",
+            "ЬДЕ3"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 680,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "MLT-3, MLT3, ЬДЕ-3, ЬДЕ3",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_MLT.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "PAM-5",
+            "PAM5",
+            "PAM 5"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 681,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "PAM-5, PAM5, PAM 5",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <br><img src='pics\\2_PAM.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "RZ",
+            "rz",
+            "КЯ",
+            "кя"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 682,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "RZ, rz, КЯ, кя",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "потенциальные",
+            "импульсные",
+            "аналоговые",
+            "непрерывные",
+            "симметричные",
+            "асиметричные",
+            "реальные",
+            "сигнальные"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 683,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "потенциальные, импульсные",
+        "point": "20",
+        "question": "Какие коды применяют при цифровом кодировании дискретных данных?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "NRZ",
+            "nrz"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 684,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "NRZ, nrz",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_NRZ.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "AMI",
+            "ami",
+            "ФЬШ",
+            "фьш"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 685,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "AMI, ami, ФЬШ, фьш",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_AMI.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "AMI",
+            "RZ",
+            "NRZ",
+            "NRZI",
+            "MLT-3",
+            "PAM-5",
+            "Манчестер 2"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 686,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "AMI",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_AMI.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "Манчестерский",
+            "RZ",
+            "NRZ",
+            "AMI",
+            "PAM-5",
+            "MLT-3",
+            "Потенциальный",
+            "AIM",
+            "IKM"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 687,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "Манчестерский",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_Манчестер.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "MLT-3",
+            "AMI",
+            "RZ",
+            "NRZ",
+            "NRZI",
+            "Манчестер 2",
+            "PAM-5"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 688,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "MLT-3",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2_MLT.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "MLT-3",
+            "MLT3",
+            "ЬДЕ-3",
+            "ЬДЕ3"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 689,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "MLT-3, MLT3, ЬДЕ-3, ЬДЕ3",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <img src='pics\\2_MLT.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "PAM-5",
+            "PAM5",
+            "PAM 5"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3
+        ],
+        "explanation": null,
+        "id": 690,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "PAM-5, PAM5, PAM 5",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке (англоязычная аббревиатура)? <br> <br><img src='pics\\2_PAM.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "RZ",
+            "rz",
+            "КЯ",
+            "кя"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": null,
+        "id": 691,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "RZ, rz, КЯ, кя",
+        "point": "20",
+        "question": "Какой метод кодирования изображен на рисунке? <br> <img src='pics\\2.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0101010000",
+            "1010101111"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 692,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0101010000, 1010101111",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"Манчестер 2\"? <br> <img src='pics\\2_Манч_1.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0111101100",
+            "1000010011"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 693,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0111101100, 1000010011",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"Манчестер 2\"? <br> <img src='pics\\2_Манч_2.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0100001111",
+            "1011110000"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 694,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0100001111, 1011110000",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"Манчестер 2\"? <br> <img src='pics\\2_Манч_3.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0001111011",
+            "1110000100"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 695,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0001111011, 1110000100",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"Манчестер 2\"? <br> <img src='pics\\2_Манч_4.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0101010001"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 696,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0101010001",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"MLT-3\"? <br> <img src='pics\\2_MLT_1.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0011110110"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 697,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0011110110",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"MLT-3\"? <br> <img src='pics\\2_MLT_2.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "1010001111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 698,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "1010001111",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"MLT-3\"? <br> <img src='pics\\2_MLT_3.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "0101000111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 699,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "0101000111",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"MLT-3\"? <br> <img src='pics\\2_MLT_4.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "00011011110101"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 700,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "00011011110101",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"РАМ-5\"? <br> <img src='pics\\2_PAM_1.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10001001011111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 701,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10001001011111",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"РАМ-5\"? <br> <img src='pics\\2_PAM_2.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11000110100101"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 702,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11000110100101",
+        "point": "20",
+        "question": "Какая битовая последовательность закодирована методом \"РАМ-5\"? <br> <img src='pics\\2_PAM_3.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10111000"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 703,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10111000",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 10000001 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11100100"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 704,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11100100",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 11000001 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10101111"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 705,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10101111",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 10010001 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11010110"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 706,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11010110",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 11111001 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "10100011"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 707,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "10100011",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 10011111 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "01011110"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 708,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "01011110",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 01000010 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "11010110"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 709,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "11010110",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 11111001 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "01101001"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 710,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "01101001",
+        "point": "20",
+        "question": "Выполнить скремблирование последовательности 01111110 <br>с использованием сотношения: <br> <img src='pics\\2_scremb.JPG'>",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "код становится самосинхронизирующимся",
+            "исчезает постоянная составляющая",
+            "увеличивается полезная пропускная способность канала связи",
+            "увеличивается скорость передачи данных",
+            "уменьшается пропускная способность канала связи",
+            "уменьшается спектр сигнала"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 711,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "код становится самосинхронизирующимся, исчезает постоянная составляющая",
+        "point": "20",
+        "question": "Какими достоинствами обладает избыточное кодирование?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "уменьшается полезная пропускная способность канала связи",
+            "дополнительные затраты времени на реализацию кодирования",
+            "теряется самосинхронизация",
+            "исчезает постоянная составляющая",
+            "появляется постоянная составляющая",
+            "код становится самосинхронизирующимся"
+        ],
+        "correctAnswer": [
+            1,
+            2
+        ],
+        "explanation": null,
+        "id": 712,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "уменьшается полезная пропускная способность канала связи, дополнительные затраты времени на реализацию кодирования",
+        "point": "20",
+        "question": "Какими недостатками обладает избыточное кодирование?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "скремблирование",
+            "скрэмблирование",
+            "scrambling",
+            "Скремблирование",
+            "Скрэмблирование",
+            "Scrambling"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "explanation": null,
+        "id": 713,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "скремблирование, скрэмблирование, scrambling, Скремблирование, Скрэмблирование, Scrambling",
+        "point": "20",
+        "question": "Как называется способ улучшения потенциальных кодов, основанный на предварительном \"перемешивании\" исходной информации по определенному алгоритму с целью исключения длинных последовательностей нулей или единиц?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "более эффективное использование пропускной способности канала связи",
+            "проще реализация",
+            "меньше временные затраты на реализацию",
+            "увеличивается недежность передачи данных",
+            "присутствует самосинхронизация",
+            "отсутствует самосинхронизация",
+            "увеличивается помехозащищенность"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 714,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "более эффективное использование пропускной способности канала связи",
+        "point": "20",
+        "question": "Каким преимуществом обладает скремблирование по сравнению с избыточным кодированием?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "нет гарантии исключения длинных последовательностей нулей или единиц",
+            "уменьшается полезная пропускная способность канала связи",
+            "уменьшается полоса пропускания канала связи",
+            "уменьшается скорость передачи данных",
+            "увеличивается число уровней сигнала",
+            "увеличивается полезная пропускная способность канала связи"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 715,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "нет гарантии исключения длинных последовательностей нулей или единиц",
+        "point": "20",
+        "question": "Каким недостатком обладает скремблирование по сравнению с избыточным кодированием?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "16"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 716,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "16",
+        "point": "20",
+        "question": "Сколько избыточных (запрещённых) кодов содержится в методе логического кодирования 4В/5В?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "32"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 717,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "32",
+        "point": "20",
+        "question": "Сколько избыточных (запрещённых) кодов содержится в методе логического кодирования 5В/6В?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [],
+        "correctAnswer": [],
+        "explanation": null,
+        "id": 718,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "",
+        "point": "20",
+        "question": "Сколько избыточных (запрещённых) кодов содержится в методе логического кодирования 8В/10В? +2:768",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [],
+        "correctAnswer": [],
+        "explanation": null,
+        "id": 719,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "",
+        "point": "20",
+        "question": "Сколько избыточных (запрещённых) кодов содержится в методе логического кодирования 8В/6Т? +2:473",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "25"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 720,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "25",
+        "point": "20",
+        "question": "Чему равна избыточность (в процентах) логического кодирования 4В/5В?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "20"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 721,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "20",
+        "point": "20",
+        "question": "Чему равна избыточность (в процентах) логического кодирования 5В/6В?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "25"
+        ],
+        "correctAnswer": [
+            1
+        ],
+        "explanation": null,
+        "id": 722,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "25",
+        "point": "20",
+        "question": "Чему равна избыточность (в процентах) логического кодирования 8В/10В?",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "L1:кадр",
+            "R1:frame",
+            "L2:пакет",
+            "R2:packet",
+            "L3:дейтаграмма",
+            "R3:datagram",
+            "L4:сообщение",
+            "R4:message"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "explanation": null,
+        "id": 723,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "25",
+        "point": "20",
+        "question": "Установите соответствие между русскими и английскими терминами.",
+        "questionPic": null,
+        "questionType": "text"
+    },
+    {
+        "answerSelectionType": "multiple",
+        "answers": [
+            "L1:1 кбит/с",
+            "R1:1 000 бит/с",
+            "L2:1 Мбит/с",
+            "R2:1 000 000 бит/с",
+            "L3:1 Тбит/с",
+            "R3:1 000 000 000 000 бит/с",
+            "L4:1 Гбит/с",
+            "R4:1 000 000 000 бит/с",
+            "L5:1 Пбит/с",
+            "R5:1 000 000 000 000 000 бит/с"
+        ],
+        "correctAnswer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "explanation": null,
+        "id": 724,
+        "messageForCorrectAnswer": "Correct",
+        "messageForIncorrectAnswer": "25",
+        "point": "20",
+        "question": "Установите соответствие между русскими и английскими терминами.",
+        "questionPic": null,
+        "questionType": "text"
     }
 ]
